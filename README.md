@@ -18,7 +18,7 @@
 		- /dev/urandom
 		- sed/tr
 2. pokaż że potrafisz obsługiwać vima
-	- wuszukiwanie
+	- wyszukiwanie
 	- skocz do linii
 	- zamiana
 	- zapisanie
@@ -40,5 +40,5 @@
 	- Generator danych do zadania regresji liniowej parametryzowany ilością
 	- Wyliczanie regresji z wykorzystaniem wątków
 	- JW. tylko Multiprocessing
-	- JW. Cellery
+	- JW. Numpy
 	- Wygeneruj wykresy prezentujące czasy wykonania zależnie od ilości danych
