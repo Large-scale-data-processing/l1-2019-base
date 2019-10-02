@@ -68,7 +68,7 @@
         - Process-based computation parallelization
     - Generate plots, which show the execution times of the above models with respect to the size of the dataset
     ```bash
-    $ python3 scripts/run-experiments.py --datasets-dir </path/to/datasets>
+    $ PYTHONPATH=. python3 scripts/run-experiments.py --datasets-dir </path/to/datasets>
     ```
     - Ensure the code passes all tests and is well written using `tox`
     ```bash
